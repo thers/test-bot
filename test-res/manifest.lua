@@ -1,1 +1,1 @@
-local authors = {"thers", "thers-throwaway"}
+maintainer "thers <https://github.com/thers>"
