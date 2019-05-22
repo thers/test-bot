@@ -1,1 +1,1 @@
-maintainer "thers <httsp://github.com/thers>"
+maintainer "thers-throwaway <https://github.com/thers-throwaway>"
